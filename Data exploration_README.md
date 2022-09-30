@@ -1,6 +1,6 @@
 # Regression-analysis-in-R
 
-Data exploration homework for the R course as part of the People Analytics Certificate at NYU SPS.
+**Data exploration** homework for the R course as part of the People Analytics Certificate at NYU SPS.
 
 Tasks covered:
 - Importing a dataset into the R environment
