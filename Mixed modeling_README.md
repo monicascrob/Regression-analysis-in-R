@@ -1,5 +1,5 @@
 # Regression-analysis-in-R
-Mixed modeling homework for the R course as part of the People Analytics Certificate at NYU.
+**Mixed modeling** homework for the R course as part of the People Analytics Certificate at NYU.
 
 Tasks covered:
 - Importing a new dataset in R
