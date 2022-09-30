@@ -1,6 +1,6 @@
 # Regression-analysis-in-R
 
-Regression modeling homework for the R course as part of the People Analytics Certificate at NYU.
+**Regression modeling** homework for the R course as part of the People Analytics Certificate at NYU.
 
 Tasks covered:
 - Importing a new dataset in R
